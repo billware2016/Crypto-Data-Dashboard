@@ -70,7 +70,7 @@ st.image('https://em-content.zobj.net/source/microsoft/319/hippopotamus_1f99b.pn
 
 st.markdown(
     """# **Crypto Dashboard**
-A cryptocurrency price app pulling price data from the [Polygon API](https://polygon.io/docs/stocks/getting-started)
+A cryptocurrency application pulling price data from the [Polygon API](https://polygon.io/docs/stocks/getting-started)
 """
 )
 
